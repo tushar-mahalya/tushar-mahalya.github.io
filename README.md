@@ -34,17 +34,8 @@ Connect with me: <br>
   
 Programming Languages I work with: <br>
 
-<img align="left" title="Go" alt="Go" width="32px" src="./logos-pink/go.svg" />
 <img align="left" title="python" alt="python" width="26px" src="./logos-pink/python.svg" />
 <img align="left" title="C" alt="C" width="26px" src="./logos-pink/c.svg" />
-<img align="left" title="C++" alt="C++" width="26px" src="./logos-pink/cplusplus.svg" />
-<!-- <img align="left" title="C#" alt="C#" width="26px" src="./logos-pink/csharp.svg" /> -->
-<img align="left" title="Java" alt="Java" width="26px" src="./logos-pink/java.svg" />
-<!-- <img align="left" title="Kotlin" alt="Kotlin" width="26px" src="./logos-pink/kotlin.svg" /> -->
-<!--<img align="left" title="TypeScript" alt="TypeScript" width="26px" src="./logos-pink/typescript.svg" />-->
-<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="./logos-pink/javascript.svg" />
-<!-- <img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos-pink/html5.svg" /> -->
-<!-- <img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos-pink/css3.svg" /> -->
 
 <br>
 <br>
